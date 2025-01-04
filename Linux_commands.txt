@@ -1,2 +1,29 @@
 whoami
 yum update
+development
+ls -al
+crontab -e
+yum -q
+ls -lrt
+pwd
+cd
+cat
+useradd
+usermod
+groupadd
+groupmod
+chmod
+grep
+mkdir
+touch
+echo
+init 0
+init 6
+cat
+cd
+pwd
+ip addr show
+systemctl
+start
+systemctl status
+
