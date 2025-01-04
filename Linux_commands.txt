@@ -26,3 +26,6 @@ cd
 pwd
 ip addr show
 >>>>>>> 401d941f89e8e7a4ad97144fc736809f5c8135b4
+systemctl
+start
+systemctl status
