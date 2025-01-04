@@ -1,0 +1,5 @@
+whoami
+yum update
+ls -al
+crontab -e
+yum -q
