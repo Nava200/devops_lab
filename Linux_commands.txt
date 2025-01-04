@@ -1,9 +1,9 @@
 whoami
 yum update
+development
 ls -al
 crontab -e
 yum -q
-<<<<<<< HEAD
 ls -lrt
 pwd
 cd
@@ -19,13 +19,11 @@ touch
 echo
 init 0
 init 6
-
-=======
 cat
 cd
 pwd
 ip addr show
->>>>>>> 401d941f89e8e7a4ad97144fc736809f5c8135b4
 systemctl
 start
 systemctl status
+
