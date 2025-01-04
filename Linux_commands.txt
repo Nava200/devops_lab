@@ -3,3 +3,7 @@ yum update
 ls -al
 crontab -e
 yum -q
+cat
+cd
+pwd
+ip addr show
