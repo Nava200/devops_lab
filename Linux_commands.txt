@@ -7,3 +7,7 @@ cat
 cd
 pwd
 ip addr show
+sudo
+systemctl
+systemctl status
+systemctl start
