@@ -1,17 +1,2 @@
 whoami
 yum update
-ls -al
-crontab -e
-yum -q
-cat
-cd
-pwd
-ip addr show
-sudo
-systemctl
-systemctl status
-systemctl start
-sudo
-systemctl
-systemctl status
-systemctl start
