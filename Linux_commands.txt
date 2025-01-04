@@ -11,3 +11,7 @@ sudo
 systemctl
 systemctl status
 systemctl start
+sudo
+systemctl
+systemctl status
+systemctl start
