@@ -26,4 +26,7 @@ ip addr show
 systemctl
 start
 systemctl status
+Hello
+I am Navaneetha
+How are you
 
